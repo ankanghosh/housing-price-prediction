@@ -1,7 +1,7 @@
 # housing-price-prediction
 # About the project
 Basic housing price prediction using a dataset from Kaggle.
-This is a Google Colab notebook to predict housing prices using a Kaggle dataset. The data is first cleaned and normlized and a Deep Neural Networks (DNN) is used to implement regression for predicting the housing prices.
+This is a Google Colab notebook to predict housing prices using a Kaggle dataset. The data is first cleaned and normalized and a Deep Neural Networks (DNN) is used to implement regression for predicting the housing prices.
 
 # Tools Used
 Tools and libraries used in this project include TensorFlow, Keras, pandas, NumPy, Matplotlib, and seaborn.
