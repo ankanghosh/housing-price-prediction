@@ -18,3 +18,4 @@ The most important point of reference for the project is the TensorFlow tutorial
 # Additional Notes
 1. The dataset is currently not available, but was available on Kaggle in the past. Please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the dataset. However, I may not be able to share the dataset with you due to licensing restrictions.
 2. The project is a basic one in nature and is not currently being maintained.
+3. [Here](https://researchguy.in/housing-price-prediction-using-tensorflow/) is the blog post covering this work.
